@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "duaghter_card")(type "KiCad")(uri "E:/StarRisc Development Board/Daughter_Card/duaghter_card.pretty")(options "")(descr ""))
+  (lib (name "CQFP80")(type "KiCad")(uri "${KIPRJMOD}/CQFP80.pretty")(options "")(descr ""))
+)
